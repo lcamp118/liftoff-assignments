@@ -17,15 +17,20 @@ Additionally, I could make several other similar apps such as a bedtime routine 
 
 ### Features
 
-User Signup- Allow users to create an account to save their routines and access pre-built routines 
-Routine creation – Choose a pre-made routine or user can create their own routine. They will need to choose their activities and bedtime 
-Activity creation – Users can create custom activities. Users will need the name of the activity, duration, and a picture. If user doesn’t provide a picture a default picture will be provided. 
-Print a routine – This feature will allow a user to create a pdf copy of their routine which allows them to print it. 
+1. User Signup- Allow users to create an account to save their routines and access pre-built routines 
+
+2.Routine creation – Choose a pre-made routine or user can create their own routine. They will need to choose their activities and bedtime 
+
+3. Activity creation – Users can create custom activities. Users will need the name of the activity, duration, and a picture. If user doesn’t provide a picture a default picture will be provided. 
+
+4. Print a routine – This feature will allow a user to create a pdf copy of their routine which allows them to print it. 
 
 ### Technologies
 
-What languages and technologies will you use to build your application? For example, for the Blogz application from Unit 2, the technologies would be: 
-TBD 
+Java
+Springboot
+Gradle
+
 
 ### What I'll Have to Learn
 
