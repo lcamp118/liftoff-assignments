@@ -8,7 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
+Welcome page -https://github.com/lcamp118/liftoff-assignments/blob/master/Screen%20Shot%202019-02-26%20at%2010.24.04%20PM.png
 
+Add Activity -https://github.com/lcamp118/liftoff-assignments/blob/master/Screen%20Shot%202019-02-26%20at%2010.40.19%20PM.png
+
+Add Routine -https://github.com/lcamp118/liftoff-assignments/blob/master/Screen%20Shot%202019-02-26%20at%2010.44.45%20PM.png
       
 
 ### Project Tracker
