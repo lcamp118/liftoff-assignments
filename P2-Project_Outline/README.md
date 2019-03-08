@@ -19,7 +19,11 @@ Additionally, I could make several other similar apps such as a bedtime routine 
 
 1. User Signup- Allow users to create an account to save their routines and access pre-built routines 
 
+<<<<<<< HEAD
 2.Routine creation – Choose a pre-made routine or user can create their own routine. They will need to choose their activities and bedtime 
+=======
+2. Routine creation – Choose a pre-made routine or user can create their own routine. They will need to choose their activities and bedtime 
+>>>>>>> 68d7c7d3a7e40ce5827709f1a205866fcb62a7d8
 
 3. Activity creation – Users can create custom activities. Users will need the name of the activity, duration, and a picture. If user doesn’t provide a picture a default picture will be provided. 
 
@@ -27,10 +31,14 @@ Additionally, I could make several other similar apps such as a bedtime routine 
 
 ### Technologies
 
+<<<<<<< HEAD
 Java
 Springboot
 Gradle
 
+=======
+TBD 
+>>>>>>> 68d7c7d3a7e40ce5827709f1a205866fcb62a7d8
 
 ### What I'll Have to Learn
 
